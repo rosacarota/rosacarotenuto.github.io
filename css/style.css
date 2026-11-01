@@ -986,16 +986,30 @@ h3,
 }
 @media (max-width: 768px) {
   .profile {
-    align-items: center;
+    width: 100%;
+    max-width: 360px;
+    margin-inline: auto;
+
+    text-align: center;
+  }
+
+  .profile-photo {
+    margin-inline: auto;
   }
 
   .profile-info {
     width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
     text-align: center;
   }
 
   .profile-affiliation {
     justify-content: center;
+    text-align: center;
   }
 
   .profile-email {
