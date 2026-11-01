@@ -984,3 +984,25 @@ h3,
     transition: none;
   }
 }
+@media (max-width: 768px) {
+  .profile {
+    align-items: center;
+  }
+
+  .profile-info {
+    width: 100%;
+    text-align: center;
+  }
+
+  .profile-affiliation {
+    justify-content: center;
+  }
+
+  .profile-email {
+    text-align: center;
+  }
+
+  .profile-links {
+    justify-content: center;
+  }
+}
