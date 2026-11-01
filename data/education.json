@@ -16,10 +16,11 @@
       "grade": null,
       "distinction": null,
       "thesis": null,
-      "supervisors": [
+      "advisors": [
         "Prof. Fabio Palomba",
-        "Dr. Valeria Pontillo"
-      ]
+        "Prof. Valeria Pontillo"
+      ],
+      "supervisors": null
     },
     {
       "id": "master-unisa",
@@ -37,6 +38,7 @@
       "grade": "110/110 cum laude",
       "distinction": "awarded in recognition of an outstanding academic record",
       "thesis": "On the Impact of Prompt Engineering on Bias in Large Language Models",
+      "advisors": null,
       "supervisors": [
         "Prof. Fabio Palomba",
         "Prof. Gregorio Robles"
@@ -58,6 +60,7 @@
       "grade": null,
       "distinction": null,
       "thesis": null,
+      "advisors": null,
       "supervisors": [
         "Prof. Fabio Palomba",
         "Prof. Gregorio Robles"
@@ -79,6 +82,7 @@
       "grade": "110/110 cum laude",
       "distinction": null,
       "thesis": "Transparent Machine Learning for Type 1 Diabetes Diagnosis from Gene Expression Data",
+      "advisors": null,
       "supervisors": [
         "Prof. Fabio Palomba"
       ]

@@ -2,6 +2,7 @@
   "publications": [
     {
       "id": "carotenuto-2025-t1d",
+      "code": "C01",
       "type": "conference",
       "status": "published",
       "title": "Transparent Machine Learning for Type 1 Diabetes Diagnosis from Gene Expression Data",
