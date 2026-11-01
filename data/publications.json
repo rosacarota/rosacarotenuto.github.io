@@ -1,0 +1,36 @@
+{
+  "publications": [
+    {
+      "id": "carotenuto-2025-t1d",
+      "type": "conference",
+      "status": "published",
+      "title": "Transparent Machine Learning for Type 1 Diabetes Diagnosis from Gene Expression Data",
+      "authors": [
+        "R. Carotenuto",
+        "V. Pentangelo",
+        "A. Della Porta",
+        "F. Palomba"
+      ],
+      "year": 2025,
+      "venue": {
+        "name": "5th National Conference on Artificial Intelligence",
+        "track": "AI for Health and Medicine",
+        "shortName": "Ital-IA 2025"
+      },
+      "publicationDetails": {
+        "publisher": "CEUR Workshop Proceedings",
+        "volume": null,
+        "issue": null,
+        "pages": null
+      },
+      "links": {
+        "paper": "https://ceur-ws.org/Vol-4121/Ital-IA_2025_paper_21.pdf",
+        "doi": null,
+        "code": null,
+        "dataset": null,
+        "project": null
+      },
+      "featured": true
+    }
+  ]
+}

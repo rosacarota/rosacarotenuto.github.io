@@ -1,0 +1,87 @@
+{
+  "education": [
+    {
+      "id": "phd-gssi",
+      "type": "phd",
+      "title": "Ph.D. in Computer Science",
+      "period": {
+        "site": "2026 — Present",
+        "latex": "2026 -- Present"
+      },
+      "institution": "Gran Sasso Science Institute",
+      "institutionShort": "GSSI",
+      "location": "L'Aquila, Italy",
+      "description": "Research on socio-technical quality assurance for Generative AI-enabled systems, with particular attention to fairness, transparency, reliability, human-AI interaction, continuous monitoring, and the proactive mitigation of emerging risks.",
+      "curriculum": null,
+      "grade": null,
+      "distinction": null,
+      "thesis": null,
+      "supervisors": [
+        "Prof. Fabio Palomba",
+        "Dr. Valeria Pontillo"
+      ]
+    },
+    {
+      "id": "master-unisa",
+      "type": "master",
+      "title": "Master's Degree in Computer Science",
+      "period": {
+        "site": "2024 — 2026",
+        "latex": "2024 -- 2026"
+      },
+      "institution": "University of Salerno",
+      "institutionShort": null,
+      "location": "Italy",
+      "description": null,
+      "curriculum": "Software Engineering and IT Management",
+      "grade": "110/110 cum laude",
+      "distinction": "awarded in recognition of an outstanding academic record",
+      "thesis": "On the Impact of Prompt Engineering on Bias in Large Language Models",
+      "supervisors": [
+        "Prof. Fabio Palomba",
+        "Prof. Gregorio Robles"
+      ]
+    },
+    {
+      "id": "erasmus-urjc",
+      "type": "erasmus",
+      "title": "Erasmus+ Traineeship",
+      "period": {
+        "site": "1 March 2026 — 31 May 2026",
+        "latex": "1 March 2026 -- 31 May 2026"
+      },
+      "institution": "Universidad Rey Juan Carlos",
+      "institutionShort": "URJC",
+      "location": "Madrid, Spain",
+      "description": "Research activity focused on fairness and bias in AI models from a Software Engineering perspective.",
+      "curriculum": null,
+      "grade": null,
+      "distinction": null,
+      "thesis": null,
+      "supervisors": [
+        "Prof. Gregorio Robles",
+        "Prof. Fabio Palomba"
+      ]
+    },
+    {
+      "id": "bachelor-unisa",
+      "type": "bachelor",
+      "title": "Bachelor's Degree in Computer Science",
+      "period": {
+        "site": "2021 — 2024",
+        "latex": "2021 -- 2024"
+      },
+      "institution": "University of Salerno",
+      "institutionShort": null,
+      "location": "Italy",
+      "description": null,
+      "curriculum": null,
+      "grade": "110/110 cum laude",
+      "distinction": null,
+      "thesis": "Transparent Machine Learning for Type 1 Diabetes Diagnosis from Gene Expression Data",
+      "supervisors": [
+        "Prof. Fabio Palomba"
+      ]
+    }
+  ]
+}
